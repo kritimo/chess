@@ -1,4 +1,4 @@
-# Javascript Two Player Chess ♟️
+# ♟️ Javascript Two Player Chess ♟️
 ## Summary
 This is a basic chess game implementation on a web page. It sets up a chessboard and allows players to drag and drop pieces while handling turn-taking and basic piece movement validation.
 
